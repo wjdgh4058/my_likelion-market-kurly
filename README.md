@@ -1,6 +1,10 @@
 # Vanilla JavaScript 프로젝트 - MarketKarly 클론코딩 🛒
 
+
 ![image](https://ifh.cc/g/7zYMBW.png)
+
+---
+![main페이지](https://github.com/wjdgh4058/my_likelion-market-kurly/assets/66310772/6b32ac75-cbf7-4027-b650-deee6f047786)
 
 ---
 
