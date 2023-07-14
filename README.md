@@ -4,9 +4,6 @@
 ![image](https://ifh.cc/g/7zYMBW.png)
 
 ---
-![main페이지](https://github.com/wjdgh4058/my_likelion-market-kurly/assets/66310772/6b32ac75-cbf7-4027-b650-deee6f047786)
-
----
 
 - 프로젝트 기간 : 2023.1.27 ~ 2023.2.8
 - 멋쟁이 사자처럼 프론트엔드 스쿨4기 6조
@@ -41,7 +38,7 @@
 
 ---
 
-# 프로젝트 도전 목표 🔥
+# 프로젝트 도전 목표 👊
 
 - SASS를 활용한 코드 작성
 - 함수형 프로그래밍 사용 (Lite버전)
